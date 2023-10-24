@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQE_AVnZMCtLsQ/profile-displaybackgroundimage-shrink_350_1400/0/1689845661757?e=1703721600&v=beta&t=S0lmAnZseBwK8ozDQMR2XIRqpvmFPz8MUch9S15qIr4)]
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQE_AVnZMCtLsQ/profile-displaybackgroundimage-shrink_350_1400/0/1689845661757?e=1703721600&v=beta&t=S0lmAnZseBwK8ozDQMR2XIRqpvmFPz8MUch9S15qIr4)
 <h1 align="center">Hi 👋, I'm Rizwan Ahmad</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -10,8 +10,6 @@
 - 🔭 I’m currently working on **Object Detection in Multimedia through Machine Learning**
 
 - 🌱 I’m currently learning **Machine Learning,DSA**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/md-rizwan-ahmad-rzzhbb/](https://www.linkedin.com/in/md-rizwan-ahmad-rzzhbb/)
 
 - 💬 Ask me about **android,web development**
 
